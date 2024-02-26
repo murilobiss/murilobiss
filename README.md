@@ -8,7 +8,7 @@
 I'm a passionate Data Engineer with a keen interest in leveraging data to drive meaningful insights. My expertise lies in designing and building robust data pipelines and analyzing large datasets to uncover hidden patterns. I'm enthusiastic about new technologies and constantly seeking opportunities to enhance my skills and contribute to exciting data projects.
 
 - :computer: I'm a Data Engineer!
-- 👷 Currently working at [Banco Bari](https://bancobari.com.br/).
+- 👷 Currently working at [AB-Inbev](https://www.ab-inbev.com/).
 - :house_with_garden: I’m from Curitiba/PR/Brazil.
 - :books: Currently learning everything about data.
 - :outbox_tray: 2023 Goals: create many new projects with new modern stacks.
