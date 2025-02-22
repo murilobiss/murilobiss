@@ -11,7 +11,7 @@ I'm a passionate Data Engineer with a keen interest in leveraging data to drive 
 - 👷 Currently working at [AB-Inbev](https://www.ab-inbev.com/).
 - :house_with_garden: I’m from Curitiba/PR/Brazil.
 - :books: Currently learning everything about data.
-- :outbox_tray: 2024 Goals: create many new projects with new modern stacks.
+- :outbox_tray: 2025 Goals: create many new projects with new modern stacks.
 - 📫 How to reach me: murilobiss@gmail.com
 
 <div>
