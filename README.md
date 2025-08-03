@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Murilo+Biss;Data+Engineer+%7C+Problem+Solver;Building+the+future+with+data" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=murilobiss&style=flat-square&color=6366F1" alt="Profile Views" />
-</div>
 
 ---
 
@@ -105,23 +102,6 @@ I'm a dedicated **Data Engineer** passionate about building robust data solution
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilobiss&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murilobiss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF)
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=murilobiss&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=6366F1)
-  
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -129,13 +109,5 @@ I'm a dedicated **Data Engineer** passionate about building robust data solution
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murilobiss)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilobiss)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilobiss@gmail.com)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/murilobiss/murilobiss/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
